@@ -11,7 +11,7 @@ readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-movingai = { git = "https://github.com/kevinheavey/movingai-rust/", branch = "patch-1" }
+movingai = { git = "https://github.com/THeK3nger/movingai-rust", rev = "5cb4016" }
 
 [dev-dependencies]
 criterion = "0.3"
